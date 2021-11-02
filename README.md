@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @burakdogangazi
 - 👀 I’m interested in web & mobile applications development.
 - 🌱 I’m currently learning web & mobile application technologies.
-- 📋 Click [(www.linkedin.com/in/burak-dogan-07a2b6211)](�here) to go to my LinkedIn profile.
+- 📋 Click [here](www.linkedin.com/in/burak-dogan-07a2b6211) to go to my LinkedIn profile.
 
 
 <!---
