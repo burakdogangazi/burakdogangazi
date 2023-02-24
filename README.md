@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @burakdogangazi
 - 👀 I’m interested in web & AI.
 - 🌱 I’m currently learning web & AI.
-
+- 📫 How to reach me **ddoganbburak@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakdogangazi&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="burakdogangazi" /></p>
 
@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/burak-dogan-07a2b6211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakdogan" height="30" width="40" /></a>
 <a href="https://medium.com/@ddoganbburak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ddoganbburak" height="30" width="40" /></a>
-<a width="40" height="30 href="mailto:ddoganbburak@gmail.com">📫</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
