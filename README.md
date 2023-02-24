@@ -22,6 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakdogangazi&" alt="burakdogangazi" /></p>
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
