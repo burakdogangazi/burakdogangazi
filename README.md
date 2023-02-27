@@ -7,9 +7,9 @@
 
 ----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakdogangazi&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="burakdogangazi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakdogangazi&show_icons=true&locale=en&layout=compact&theme=gradient" alt="burakdogangazi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakdogangazi&show_icons=true&locale=en&theme=synthwave" alt="burakdogangazi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakdogangazi&show_icons=true&locale=en&theme=gradient" alt="burakdogangazi" /></p>
 
 
 
